@@ -1,0 +1,1 @@
+This project is a part of my learning process with Selenium WebDriver using the Java programming language, aimed at building automation testing skills. It serves as preparation for my journey to become a software tester, focusing on testing web applications and gaining hands-on experience with automation tools.
