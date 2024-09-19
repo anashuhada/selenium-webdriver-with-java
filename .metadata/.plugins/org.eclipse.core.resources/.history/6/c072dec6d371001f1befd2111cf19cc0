@@ -1,0 +1,14 @@
+package day21; // Ensure there's no dot or any extra character here
+
+// Test Case
+// 1) Launch browser - Google Chrome
+// 2) Open URL https://demo.opencart.com/
+// 3) Validate title should be "Your Store"
+// 4) Close browser
+
+public class FirstTestCase {
+
+    public static void main(String[] args) {
+        // Your code for the test will go here
+    }
+}

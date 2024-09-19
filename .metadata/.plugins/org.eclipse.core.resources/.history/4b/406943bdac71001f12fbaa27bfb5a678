@@ -1,0 +1,7 @@
+
+
+public class Snippet {
+	Description	Resource	Path	Location	Type
+	Syntax error, insert ";" to complete CompilationUnit	._FirstTestCase.java	/SeleniumWebDriver/src/test/java	line 2	Java Problem
+	
+}
