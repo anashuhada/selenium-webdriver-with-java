@@ -41,7 +41,7 @@ public class DummyTicketPages {
     @FindBy(xpath = "//select[@aria-label='Select month']") WebElement selectMonth;
     @FindBy(xpath = "//select[@aria-label='Select year']") WebElement selectYear;
     @FindBy(xpath = "//span[@class='ui-icon ui-icon-circle-triangle-e']") WebElement futureBtn;
-    @FindBy(xpath = "//span[@class='ui-icon ui-icon-circle-triangle-w']")WebElement previousBtn;
+    @FindBy(xpath = "//span[@class='ui-icon ui-icon-circle-triangle-w']") WebElement previousBtn;
     @FindBy(xpath = "//table[@class='ui-datepicker-calendar']//tr//td") List<WebElement> allDate;
     @FindBy(xpath = "//button[normalize-space()='Done']") WebElement doneBtn;
     @FindBy(xpath = "//textarea[@id='notes']") WebElement addInfoTrav;
